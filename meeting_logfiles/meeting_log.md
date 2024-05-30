@@ -18,5 +18,13 @@
             - A paper from Liyuan
     - Contents from Meng:
         - Done: 
+            - understand the concept of Spike Sorting
+            - know how to PCA
+            - difference between CHT and WCHT
+            - F1-Score
+            - read a paper from Liyuan
         - Questions: 
+            - Is it necessary to reconstruct the signal in our task?
         - TODOs: 
+            - Installation of Matlab integrated environment
+            - How to implement (C)HT and (C)WHT with Matlab
