@@ -27,4 +27,5 @@
             - Is it necessary to reconstruct the signal in our task?
         - TODOs: 
             - Installation of Matlab integrated environment
-            - How to implement (C)HT and (C)WHT with Matlab
+            - How to implement (C)HT and W(C)HT with Matlab
+            
