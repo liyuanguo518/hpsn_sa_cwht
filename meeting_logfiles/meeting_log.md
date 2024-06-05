@@ -29,7 +29,7 @@
             - Installation of Matlab integrated environment
             - How to implement (C)HT and W(C)HT with Matlab
 
-#### 24.05.30:
+#### 30.05.24:
     - Contents from Liyuan: 
         - Preparation:
             - Spike Sorting's raw code 
