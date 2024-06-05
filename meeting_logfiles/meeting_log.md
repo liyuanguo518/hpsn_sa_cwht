@@ -28,4 +28,16 @@
         - TODOs: 
             - Installation of Matlab integrated environment
             - How to implement (C)HT and W(C)HT with Matlab
-            
+
+#### 24.05.30:
+    - Contents from Liyuan: 
+        - Preparation:
+            - Spike Sorting's raw code 
+    - Contents from Meng:
+        - Done: 
+            - 
+        - Questions: 
+            - 
+        - TODOs: 
+            - 
+            - 
