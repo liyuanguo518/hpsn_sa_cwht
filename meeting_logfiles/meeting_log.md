@@ -41,3 +41,13 @@
         - TODOs: 
             - 
             - 
+
+#### 06.06.24:
+    - Contents from Liyuan: 
+    - Contents from Meng:
+        - Done: 
+            - 
+        - Questions: 
+            - Matlab code does not work
+        - TODOs: 
+            - To understand the matlab code along with the literature (Guo, et al., 2022)
