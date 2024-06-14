@@ -50,3 +50,14 @@
             - Matlab code does not work
         - TODOs: 
             - To understand the matlab code along with the literature (Guo, et al., 2022)
+
+#### 14.06.24:
+    - Contents from Liyuan: 
+    - Contents from Meng:
+        - Done: 
+            - Matlab code works
+        - Questions: 
+            - 
+        - TODOs: 
+            - To understand Recall, Precision, and F1-score based on the fig.3 of Matlab code
+            - Based on the understanding of the calculation of F1-score, re-generate the Fig.4 in (Guo, et al., 2022)
