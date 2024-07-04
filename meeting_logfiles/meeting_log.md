@@ -62,3 +62,20 @@
             - To understand Recall, Precision, and F1-score based on the fig.3 of Matlab code
             - Based on the understanding of the calculation of F1-score, re-generate the Fig.4 in (Guo, et al., 2022)
             - To understand the Matlab code in detail
+
+#### 04.07.24:
+    - Contents from Liyuan: 
+    - Contents from Meng:
+        - Done: 
+            - understand the Matlab Code in detail
+            - use three datasets to draw graph of F1-score
+        - Questions: 
+            - a lack of datasets 
+            - not lower/upper limit but standard deviation
+        - TODOs: 
+            - re-generate fig.4 with more datasets
+            - learn about the background and features of cwht
+            - to check if there are any other parts of the code that i don't understand
+            - think about how to replace pca with cwht
+
+            
