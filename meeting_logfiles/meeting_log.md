@@ -78,4 +78,15 @@
             - to check if there are any other parts of the code that i don't understand
             - think about how to replace pca with cwht
 
+#### 14.07.24:
+    - Contents from Liyuan: 
+    - Contents from Meng:
+        - Done: 
+            - use 22 datasets to draw F1-score
+        - Questions: 
+            - Standard Deviation more than 1
+            - graph of F1-Score is different from the paper (The average value is less than 0.9)
+        - TODOs: 
+            - Write down the meaning of each line of code so that you can understand it later.
+            - Create a new folder in GitHub and upload local files
             
