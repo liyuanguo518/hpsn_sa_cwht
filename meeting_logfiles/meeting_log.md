@@ -89,4 +89,15 @@
         - TODOs: 
             - Write down the meaning of each line of code so that you can understand it later.
             - Create a new folder in GitHub and upload local files
-            
+
+#### 01.11.24:
+    - Contents from Liyuan: 
+    - Contents from Meng:
+        - Done: 
+            - use 22 datasets to draw F1-score
+        - Questions: 
+            - graph of F1-Score is different from the paper (The average value is less than 0.9)
+        - TODOs: 
+            - Use Do_clustering.m to recalculate the F1_Score of 22 datasets
+            - Use WHT instead of PCA, loop through different eigenvalues ​​FE, and give the best feature combination and its corresponding best F1_Score
+
